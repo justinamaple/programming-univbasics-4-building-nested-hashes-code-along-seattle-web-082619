@@ -4,3 +4,7 @@ def first_challenge
     :capulet => {}
   }
 end
+
+def second_challenge
+  
+end
